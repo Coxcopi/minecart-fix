@@ -1,0 +1,7 @@
+name: MinecartFix
+description: Fixes furnace minecarts being unloaded leading to them not working for longer distances.
+author: Coxcopi
+load: POSTWORLD
+main: MinecartFix
+version: 1.3
+api-version: 1.19
